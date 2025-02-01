@@ -4,7 +4,7 @@
 
 ## Hey there! 👋
 
-I'm Harshaditya, an aspiring AI/ML engineer on a quest to unlock the secrets of artificial intelligence. Currently pursuing Computer Science and Engineering with a specialization in AI/ML at Vellore Institute of Technology, I'm diving deep into the realms of neural networks, decision trees, supervised/unsupervised learning, and cutting-edge technologies like CNNs, LSTMs, RNNs, and Transformers.
+I'm Harshaditya, an aspiring AI/ML engineer/ Backend engineer on a quest to unlock the secrets of artificial intelligence and learn backend development. Currently pursuing Computer Science and Engineering with a specialization in AI/ML at Vellore Institute of Technology, I'm diving deep into the realms of neural networks, decision trees, supervised/unsupervised learning, and cutting-edge technologies like CNNs, LSTMs, RNNs, and Transformers and learning about micro-Service architectures, learning cloud services like GCP, AWS.
 
 ## 🚀 Tech Stack
 ![Rust](https://img.shields.io/badge/-Rust-dea584?style=flat-square&logo=Rust&logoColor=white)
